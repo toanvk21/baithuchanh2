@@ -1,0 +1,12 @@
+E:\bai tap thuc hanh\buoi 2\bai 2\bai 2\bai 2\obj\Debug\netcoreapp3.1\bai 2.AssemblyInfoInputs.cache
+E:\bai tap thuc hanh\buoi 2\bai 2\bai 2\bai 2\obj\Debug\netcoreapp3.1\bai 2.AssemblyInfo.cs
+E:\bai tap thuc hanh\buoi 2\bai 2\bai 2\bai 2\obj\Debug\netcoreapp3.1\bai 2.csproj.CoreCompileInputs.cache
+E:\bai tap thuc hanh\buoi 2\bai 2\bai 2\bai 2\bin\Debug\netcoreapp3.1\bai 2.exe
+E:\bai tap thuc hanh\buoi 2\bai 2\bai 2\bai 2\bin\Debug\netcoreapp3.1\bai 2.deps.json
+E:\bai tap thuc hanh\buoi 2\bai 2\bai 2\bai 2\bin\Debug\netcoreapp3.1\bai 2.runtimeconfig.json
+E:\bai tap thuc hanh\buoi 2\bai 2\bai 2\bai 2\bin\Debug\netcoreapp3.1\bai 2.runtimeconfig.dev.json
+E:\bai tap thuc hanh\buoi 2\bai 2\bai 2\bai 2\bin\Debug\netcoreapp3.1\bai 2.dll
+E:\bai tap thuc hanh\buoi 2\bai 2\bai 2\bai 2\bin\Debug\netcoreapp3.1\bai 2.pdb
+E:\bai tap thuc hanh\buoi 2\bai 2\bai 2\bai 2\obj\Debug\netcoreapp3.1\bai 2.dll
+E:\bai tap thuc hanh\buoi 2\bai 2\bai 2\bai 2\obj\Debug\netcoreapp3.1\bai 2.pdb
+E:\bai tap thuc hanh\buoi 2\bai 2\bai 2\bai 2\obj\Debug\netcoreapp3.1\bai 2.genruntimeconfig.cache
